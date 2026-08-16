@@ -1,6 +1,8 @@
 ```markdown
 # NLP in Industry - Multi-Hop QA with RAG
 
+Youtube ：https://www.youtube.com/watch?v=kGtZH9jWXH8
+
 This repository contains experiments on multi-hop question answering using the HotpotQA dataset.
 
 We compare three retrieval strategies:
@@ -38,7 +40,7 @@ The main evaluation metrics are:
 | Agentic RAG | **0.600** | **0.726** |
 | GraphRAG* | 0.480 | 0.659 |
 
-\* GraphRAG uses a different hard-bridge subset and a shared retrieval corpus, so its results are not directly comparable with the other systems.
+
 
 ## Project Goal
 
